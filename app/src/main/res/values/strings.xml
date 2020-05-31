@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Walpy</string>
+    <string name="drawer_open" translatable="false">Açık</string>
+    <string name="drawer_close" translatable="false">Kapalı</string>
+</resources>
